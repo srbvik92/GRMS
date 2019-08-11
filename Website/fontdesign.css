@@ -1,0 +1,32 @@
+
+
+fdesign {
+	list-style-type: none;
+	
+}
+
+fdesign a{
+	color: black;
+}	
+	
+fdesign a:hover{
+	color: #767676;	
+}
+
+
+headerfont {
+	list-style-type: none;
+}
+
+headerfont a {
+	color: black;
+}
+
+headerfont a:hover {
+	color:#6E0202;
+}
+
+.myaccount:hover {
+	background-color: darkblue;	
+	
+}

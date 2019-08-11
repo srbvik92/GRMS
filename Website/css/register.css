@@ -1,0 +1,27 @@
+.header
+{
+	width:1000px;
+	height:200px;
+	alignment-adjust:central;
+	margin:auto;
+	background-color:#D2D2D2;
+}
+
+.menu
+{
+	width:1200px;
+	height:42px;
+	margin:auto;
+	alignment-adjust:central;
+	background-color:#111;
+}
+
+.main
+{
+	width:1000px;
+	height:auto;
+	margin:auto;
+	alignment-adjust:central;
+	background-color:#F9F;
+}
+

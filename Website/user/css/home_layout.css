@@ -1,0 +1,47 @@
+.header
+{
+	width:1000px;
+	height:200px;
+	alignment-adjust:central;
+	margin:auto;
+	background-color:#F00;
+}
+
+.menu
+{
+	width:1000px;
+	height:30px;
+	margin:auto;
+	alignment-adjust:central;
+	background-color:#999999;
+}
+
+.header2
+{
+	width:1000px;
+	height:250px;
+	margin:auto;
+	alignment-adjust:central;
+	background-color:#999999;
+}
+
+.left
+{
+	
+	position:absolute;
+	width:700px;
+	height:auto;
+	left:183px;
+	float:left;
+	background-color:#00FFFF;
+}
+
+.right
+{
+	position:absolute;
+	width:300px;
+	height:auto;
+	left:883px;
+	background-color:#F90;
+}
+

@@ -1,0 +1,45 @@
+.header
+{
+	width:1100px;
+	height:200px;
+	alignment-adjust:central;
+	margin:auto;
+	background-color:#F00;
+}
+
+.menu
+{
+	width:1100px;
+	height:30px;
+	margin:auto;
+	alignment-adjust:central;
+	background-color:#999999;
+}
+
+.left_menu
+{
+	position:absolute;
+	width:100px;
+	height:auto;
+	left:183px;
+	background-color:#00FFFF;
+}
+
+.right_menu
+{
+	position:absolute;
+	right:183px;
+	width:100px;
+	height:auto;
+	float:left;
+	background-color:#FFFF33;
+}
+
+.main
+{
+	width:800px;
+	alignment-adjust:central;
+	margin:auto;
+	height:auto;
+	background-color:#CCFFFF;	
+}
